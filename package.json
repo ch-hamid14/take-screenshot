@@ -1,0 +1,20 @@
+{
+  "name": "take-screenshot",
+  "version": "1.0.0",
+  "description": "Take screenshot of window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamid Ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.17.1",
+    "tslib": "^2.6.2"
+  }
+}
